@@ -1,0 +1,91 @@
+- name: OWASP
+  url: https://owasp.org/
+  src: security
+
+- name: Hackerone
+  url: https://www.hackerone.com/
+  src: security
+
+- name: Bugcrowd
+  url: https://www.bugcrowd.com/
+  src: security
+
+- name: PortSwigger Web Security Academy
+  url: https://portswigger.net/web-security
+  src: security
+
+- name: Exploit Database
+  url: https://www.exploit-db.com/
+  src: security
+
+- name: CVE官方库
+  url: https://cve.mitre.org/
+  src: security
+
+- name: 先知社区
+  url: https://xz.aliyun.com/
+  src: security
+
+- name: FreeBuf
+  url: https://www.freebuf.com/
+  src: security
+
+- name: 安全客
+  url: https://www.anquanke.com/
+  src: security
+
+- name: 看雪论坛
+  url: https://bbs.pediy.com/
+  src: security
+
+- name: SecWiki
+  url: https://www.sec-wiki.com/
+  src: security
+
+- name: 安全脉搏
+  url: https://www.secpulse.com/
+  src: security
+
+- name: 知道创宇404实验室
+  url: https://www.seebug.org/
+  src: security
+
+- name: 绿盟科技博客
+  url: http://blog.nsfocus.net/
+  src: security
+
+- name: 腾讯安全应急响应中心
+  url: https://security.tencent.com/
+  src: security
+
+- name: 阿里安全响应中心
+  url: https://security.alibaba.com/
+  src: security
+
+- name: 网络安全导航
+  url: https://www.sec-wiki.com/nav
+  src: www
+
+- name: 安全技术精选
+  url: https://paper.seebug.org/
+  src: www
+
+- name: 网络安全学习资源
+  url: https://github.com/euphrat1ca/security_study
+  src: www
+
+- name: 安全技术公开课
+  url: https://www.ichunqiu.com/courses
+  src: www
+
+- name: river's blog
+  url: https://www.river106.cn
+  src: www
+
+- name: lanruixiang
+  url: https://lanruixiang.github.io/
+  src: www
+
+- name: lch2010
+  url: https://lch2010.github.io/
+  src: www
