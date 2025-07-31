@@ -3,6 +3,7 @@ layout: page
 title: 面经最前线
 description: 2024年网络安全面试最新趋势和热点话题
 type: page
+permalink: /interview-trends/
 ---
 
 ## 面经最前线 - 2024年网络安全面试趋势

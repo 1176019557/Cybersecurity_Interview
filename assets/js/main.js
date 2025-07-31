@@ -7,7 +7,14 @@ function toggleMenu() {
   }
 }
 
+// 初始化导航栏样式
 jQuery(function() {
+  // 设置移动端导航栏的初始样式
+  var nav = document.getElementsByClassName("site-header-nav")[0];
+  if (window.innerWidth <= 800 && nav) {
+    nav.style.display = "none";
+  }
+  
   // 回到顶部
   function toTop () {
     var $toTop = $(".gotop");

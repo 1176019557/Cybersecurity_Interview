@@ -3,6 +3,7 @@ layout: page
 title: 简历投递
 description: 网络安全岗位内推和直推渠道汇总
 type: page
+permalink: /resume-delivery/
 ---
 
 ## 简历投递渠道汇总

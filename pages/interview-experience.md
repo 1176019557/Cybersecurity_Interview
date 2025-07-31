@@ -3,6 +3,7 @@ layout: page
 title: 面试心得
 description: 网络安全岗位真实面试经验分享和总结
 type: page
+permalink: /interview-experience/
 ---
 
 ## 面试心得分享

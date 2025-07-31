@@ -3,6 +3,7 @@ layout: page
 title: 简历修改
 description: 网络安全岗位简历优化指南
 type: page
+permalink: /resume-modification/
 ---
 
 ## 简历修改指南

@@ -3,6 +3,7 @@ layout: page
 title: 项目学习
 description: 通过实践项目学习网络安全技能
 type: page
+permalink: /project-learning/
 ---
 
 ## 项目学习
@@ -147,7 +148,7 @@ type: page
 **文档要求**
 - 清晰的项目描述
 - 详细的安装指南
-- 完整的使用说明
+- 完整的用法说明
 - 截图和演示视频
 
 #### 7.2 技术博客写作

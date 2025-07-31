@@ -3,6 +3,7 @@ layout: page
 title: 网安面经
 description: 网络安全面试常见问题及回答策略
 type: page
+permalink: /cybersecurity-interview/
 ---
 
 ## 网络安全面经大全
